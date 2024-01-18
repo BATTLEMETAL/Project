@@ -1,122 +1,116 @@
-<div style="width: 360px; height: 800px; position: relative; background-image: url(https://via.placeholder.com/360x800)">
-  <div style="width: 379px; height: 203px; left: -19px; top: 31px; position: absolute; text-align: center; color: #FFD600; font-size: 64px; font-family: Itim; font-weight: 400; word-wrap: break-word">SAVE YOUR      MONEY</div>
-  <img style="width: 287px; height: 114px; left: 41px; top: 219px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/287x114" />
-  <img style="width: 287px; height: 114px; left: 41px; top: 340px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/287x114" />
-  <img style="width: 287px; height: 114px; left: 31px; top: 461px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/287x114" />
-  <img style="width: 287px; height: 114px; left: 31px; top: 582px; position: absolute; border-radius: 9999px" src="https://via.placeholder.com/287x114" />
-  <div style="width: 197px; height: 46px; left: 86px; top: 259px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Itim; font-weight: 400; word-wrap: break-word">Start saving<br/></div>
-  <div style="width: 197px; height: 46px; left: 86px; top: 374px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Itim; font-weight: 400; word-wrap: break-word">Your </div>
-  <div style="width: 197px; height: 46px; left: 76px; top: 501px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Itim; font-weight: 400; word-wrap: break-word">Expenses</div>
-  <div style="width: 197px; height: 46px; left: 76px; top: 622px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Itim; font-weight: 400; word-wrap: break-word">More info</div>
+<div className="AndroidLarge1" style={{width: 360, height: 800, position: 'relative', backgroundImage: 'url(https://via.placeholder.com/360x800)'}}>
+  <div className="SaveYourMoney" style={{width: 379, height: 203, left: -19, top: 31, position: 'absolute', textAlign: 'center', color: '#FFD600', fontSize: 64, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>SAVE YOUR      MONEY</div>
+  <img className="Ellipse1" style={{width: 287, height: 114, left: 41, top: 219, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/287x114" />
+  <img className="Ellipse2" style={{width: 287, height: 114, left: 41, top: 340, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/287x114" />
+  <img className="Ellipse3" style={{width: 287, height: 114, left: 31, top: 461, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/287x114" />
+  <img className="Ellipse4" style={{width: 287, height: 114, left: 31, top: 582, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/287x114" />
+  <div className="StartSaving" style={{width: 197, height: 46, left: 86, top: 259, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Start saving<br/></div>
+  <div className="Your" style={{width: 197, height: 46, left: 86, top: 374, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Your </div>
+  <div className="Expenses" style={{width: 197, height: 46, left: 76, top: 501, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Expenses</div>
+  <div className="MoreInfo" style={{width: 197, height: 46, left: 76, top: 622, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 24, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>More info</div>
 </div>
-<div style="width: 360px; height: 800px; position: relative; background-image: url(https://via.placeholder.com/360x800)">
-  <div style="width: 73px; height: 35px; left: 21px; top: 197px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Name</div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 219px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 58px; top: 229px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">Name example</div>
-  <div style="width: 142px; height: 35px; left: 23px; top: 284px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Email address</div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 310px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 46px; top: 319px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">info@mail.com</div>
-  <div style="width: 7px; height: 10px; left: 313px; top: 323px; position: absolute; border-radius: 9999px; border: 1px #D9D9D9 solid"></div>
-  <div style="width: 116px; height: 32px; left: 123px; top: 89px; position: absolute; color: black; font-size: 22px; font-family: Inter; font-weight: 800; word-wrap: break-word">Sign up</div>
-  <img style="width: 322px; height: 33px; left: 21px; top: 143px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 2px #499CB6 solid" src="https://via.placeholder.com/322x33" />
-  <div style="width: 257px; height: 15px; left: 103px; top: 152px; position: absolute; opacity: 0.50; color: black; font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">Sing in with Google</div>
-  <div style="width: 73px; height: 35px; left: 26px; top: 365px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Password</div>
-  <div style="width: 266px; height: 15px; left: 26px; top: 464px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Repeat password</div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 400px; position: absolute; background: white; border: 3px #499CB6 solid"></div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 491px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 46px; top: 409px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">atleast 8 characters</div>
-  <div style="width: 24.50px; height: 16px; left: 41px; top: 575px; position: absolute; border: 3px white solid"></div>
-  <div style="width: 266px; left: 91px; top: 576px; position: absolute; color: black; font-size: 12px; font-family: Inter; font-weight: 700; word-wrap: break-word">I agree with terms and conditions</div>
-  <div style="width: 325px; height: 48px; left: 23px; top: 638px; position: absolute; background: #499CB6; border-radius: 5px; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 96px; top: 654px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word"><br/></div>
-  <div style="width: 82px; height: 15px; left: 143px; top: 654px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Sign up<br/></div>
-  <div style="width: 39px; height: 39px; left: 33px; top: 564px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset; border: 2px #499CB6 solid"></div>
-  <div style="width: 73px; height: 35px; left: 161px; top: 735px; position: absolute; color: #499CB6; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Log in</div>
-  <div style="width: 240px; left: 108px; top: 708px; position: absolute; color: black; font-size: 12px; font-family: Inter; font-weight: 800; word-wrap: break-word">Allready have an account ?</div>
+<div className="AndroidLarge2" style={{width: 360, height: 800, position: 'relative', backgroundImage: 'url(https://via.placeholder.com/360x800)'}}>
+  <div className="Name" style={{width: 73, height: 35, left: 21, top: 197, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Name</div>
+  <div className="Rectangle28" style={{width: 322, height: 33, left: 21, top: 219, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="NameExample" style={{width: 257, height: 15, left: 58, top: 229, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>Name example</div>
+  <div className="EmailAddress" style={{width: 142, height: 35, left: 23, top: 284, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Email address</div>
+  <div className="Rectangle29" style={{width: 322, height: 33, left: 21, top: 310, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="InfoMailCom" style={{width: 257, height: 15, left: 46, top: 319, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>info@mail.com</div>
+  <div className="Ellipse75" style={{width: 7, height: 10, left: 313, top: 323, position: 'absolute', borderRadius: 9999, border: '1px #D9D9D9 solid'}} />
+  <div className="SignUp" style={{width: 116, height: 32, left: 123, top: 89, position: 'absolute', color: 'black', fontSize: 22, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Sign up</div>
+  <img className="Rectangle27" style={{width: 322, height: 33, left: 21, top: 143, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', border: '2px #499CB6 solid'}} src="https://via.placeholder.com/322x33" />
+  <div className="SingInWithGoogle" style={{width: 257, height: 15, left: 103, top: 152, position: 'absolute', opacity: 0.50, color: 'black', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>Sing in with Google</div>
+  <div className="Password" style={{width: 73, height: 35, left: 26, top: 365, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Password</div>
+  <div className="RepeatPassword" style={{width: 266, height: 15, left: 26, top: 464, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Repeat password</div>
+  <div className="Rectangle30" style={{width: 322, height: 33, left: 21, top: 400, position: 'absolute', background: 'white', border: '3px #499CB6 solid'}}></div>
+  <div className="Rectangle31" style={{width: 322, height: 33, left: 21, top: 491, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Atleast8Characters" style={{width: 257, height: 15, left: 46, top: 409, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>atleast 8 characters</div>
+  <div className="Vector37" style={{width: 24.50, height: 16, left: 41, top: 575, position: 'absolute', border: '3px white solid'}}></div>
+  <div className="IAgreeWithTermsAndConditions" style={{width: 266, left: 91, top: 576, position: 'absolute', color: 'black', fontSize: 12, fontFamily: 'Inter', fontWeight: '700', wordWrap: 'break-word'}}>I agree with terms and conditions</div>
+  <div className="Rectangle33" style={{width: 325, height: 48, left: 23, top: 638, position: 'absolute', background: '#499CB6', borderRadius: 5, border: '2px #499CB6 solid'}}></div>
+  <div className="Text" style={{width: 257, height: 15, left: 96, top: 654, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}><br/></div>
+  <div className="SignUp" style={{width: 82, height: 15, left: 143, top: 654, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Sign up<br/></div>
+  <div className="Rectangle32" style={{width: 39, height: 39, left: 33, top: 564, position: 'absolute', background: 'white', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25) inset', border: '2px #499CB6 solid'}} />
+  <div className="LogIn" style={{width: 73, height: 35, left: 161, top: 735, position: 'absolute', color: '#499CB6', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Log in</div>
+  <div className="AllreadyHaveAnAccount" style={{width: 240, left: 108, top: 708, position: 'absolute', color: 'black', fontSize: 12, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Allready have an account ?</div>
 </div>
-<div style="width: 360px; height: 800px; position: relative; background-image: url(https://via.placeholder.com/360x800)">
-  <div style="width: 73px; height: 35px; left: 21px; top: 197px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Name</div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 219px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 58px; top: 229px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">Name example</div>
-  <div style="width: 142px; height: 35px; left: 23px; top: 284px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Password</div>
-  <div style="width: 322px; height: 33px; left: 21px; top: 310px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 46px; top: 319px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">info@mail.com</div>
-  <div style="width: 7px; height: 10px; left: 313px; top: 323px; position: absolute; border-radius: 9999px; border: 1px #D9D9D9 solid"></div>
-  <div style="width: 116px; height: 32px; left: 123px; top: 89px; position: absolute; color: white; font-size: 22px; font-family: Inter; font-weight: 800; word-wrap: break-word">Log in</div>
+<div className="AndroidLarge3" style={{width: 360, height: 800, position: 'relative', backgroundImage: 'url(https://via.placeholder.com/360x800)'}}>
+  <div className="Name" style={{width: 73, height: 35, left: 21, top: 197, position: 'absolute', color: 'white', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Name</div>
+  <div className="Rectangle28" style={{width: 322, height: 33, left: 21, top: 219, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="NameExample" style={{width: 257, height: 15, left: 58, top: 229, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>Name example</div>
+  <div className="Password" style={{width: 142, height: 35, left: 23, top: 284, position: 'absolute', color: 'white', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Password</div>
+  <div className="Rectangle29" style={{width: 322, height: 33, left: 21, top: 310, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="InfoMailCom" style={{width: 257, height: 15, left: 46, top: 319, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>info@mail.com</div>
+  <div className="Ellipse75" style={{width: 7, height: 10, left: 313, top: 323, position: 'absolute', borderRadius: 9999, border: '1px #D9D9D9 solid'}} />
+  <div className="LogIn" style={{width: 116, height: 32, left: 123, top: 89, position: 'absolute', color: 'white', fontSize: 22, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Log in</div>
+  <div className="Rectangle33" style={{width: 325, height: 48, left: 21, top: 383, position: 'absolute', background: '#499CB6', borderRadius: 5, border: '2px #499CB6 solid'}}></div>
+  <div className="Text" style={{width: 257, height: 15, left: 94, top: 399, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}><br/></div>
+  <div className="LogIn" style={{width: 82, height: 15, left: 141, top: 399, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Log in<br/></div>
 </div>
-<div style="width: 266px; color: white; font-size: 12px; font-family: Inter; font-weight: 800; word-wrap: break-word">Remember me</div>
-<div style="width: 39px; height: 39px; background: #499CB6; border: 2px #499CB6 solid"></div>
-<div style="width: 24.50px; height: 16px; border: 3px white solid"></div>
-<div style="width: 147px; height: 35px; color: #499CB6; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Forgot password ?</div>
-<div style="width: 240px; color: white; font-size: 12px; font-family: Inter; font-weight: 800; word-wrap: break-word">Don’t have an account yet ?</div>
-<div style="width: 327.50px; height: 0px; border: 3px black solid"></div>
-<div style="width: 73px; height: 35px; color: #499CB6; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Sign up</div>
-<div style="width: 360px; height: 800px; position: relative; background: white">
-  <img style="width: 600px; height: 900px; left: -103px; top: -50px; position: absolute" src="https://via.placeholder.com/600x900" />
-  <div style="width: 197px; height: 46px; left: 82px; top: 46px; position: absolute; text-align: center; color: black; font-size: 48px; font-family: Itim; font-weight: 400; word-wrap: break-word">Expenses</div>
-  <div style="width: 116px; height: 35px; left: 11px; top: 115px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Daily expense:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 137px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 142px; height: 35px; left: 13px; top: 202px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Fees:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 228px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 7px; height: 10px; left: 303px; top: 241px; position: absolute; border-radius: 9999px; border: 1px #D9D9D9 solid"></div>
-  <div style="width: 127px; height: 35px; left: 13px; top: 292px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Entertainment:</div>
-  <div style="width: 266px; height: 15px; left: 16px; top: 382px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Food:</div>
-  <div style="width: 266px; height: 15px; left: 16px; top: 460px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Habits:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 318px; position: absolute; background: white; border: 3px #499CB6 solid"></div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 409px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 487px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 327px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 237px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 147px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 418px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 496px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 325px; height: 48px; left: 8px; top: 607px; position: absolute; background: #499CB6; border-radius: 5px; border: 2px #499CB6 solid"></div>
-  <div style="width: 82px; height: 15px; left: 128px; top: 623px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Save</div>
-  <div style="width: 266px; height: 15px; left: -475px; top: 1390px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Habits</div>
-  <div style="width: 25px; height: 0px; left: 41px; top: 21px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; border: 2px black solid"></div>
+<div className="AndroidLarge4" style={{width: 360, height: 800, position: 'relative', background: 'white'}}>
+  <img className="Image1" style={{width: 600, height: 900, left: -103, top: -50, position: 'absolute'}} src="https://via.placeholder.com/600x900" />
+  <div className="Expenses" style={{width: 197, height: 46, left: 82, top: 46, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 48, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Expenses</div>
+  <div className="DailyExpense" style={{width: 116, height: 35, left: 11, top: 115, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Daily expense:</div>
+  <div className="Rectangle28" style={{width: 322, height: 33, left: 11, top: 137, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Fees" style={{width: 142, height: 35, left: 13, top: 202, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Fees:</div>
+  <div className="Rectangle29" style={{width: 322, height: 33, left: 11, top: 228, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Ellipse75" style={{width: 7, height: 10, left: 303, top: 241, position: 'absolute', borderRadius: 9999, border: '1px #D9D9D9 solid'}} />
+  <div className="Entertainment" style={{width: 127, height: 35, left: 13, top: 292, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Entertainment:</div>
+  <div className="Food" style={{width: 266, height: 15, left: 16, top: 382, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Food:</div>
+  <div className="Habits" style={{width: 266, height: 15, left: 16, top: 460, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Habits:</div>
+  <div className="Rectangle30" style={{width: 322, height: 33, left: 11, top: 318, position: 'absolute', background: 'white', border: '3px #499CB6 solid'}}></div>
+  <div className="Rectangle31" style={{width: 322, height: 33, left: 11, top: 409, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Rectangle32" style={{width: 322, height: 33, left: 11, top: 487, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div style={{width: 257, height: 15, left: 36, top: 327, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 237, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 147, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 418, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 496, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div className="Rectangle33" style={{width: 325, height: 48, left: 8, top: 607, position: 'absolute', background: '#499CB6', borderRadius: 5, border: '2px #499CB6 solid'}}></div>
+  <div className="Save" style={{width: 82, height: 15, left: 128, top: 623, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Save</div>
+  <div className="Habits" style={{width: 266, height: 15, left: -475, top: 1390, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Habits</div>
+  <div className="Arrow8" style={{width: 25, height: 0, left: 41, top: 21, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', border: '2px black solid'}}></div>
 </div>
-<div style="width: 325px; height: 48px; background: #499CB6; border-radius: 5px; border: 2px #499CB6 solid"></div>
-<div style="width: 82px; height: 15px; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Log in</div>
-<div style="width: 360px; height: 800px; position: relative; background: white">
-  <img style="width: 600px; height: 900px; left: -103px; top: -50px; position: absolute" src="https://via.placeholder.com/600x900" />
-  <div style="width: 197px; height: 46px; left: 82px; top: 46px; position: absolute; text-align: center; color: black; font-size: 48px; font-family: Itim; font-weight: 400; word-wrap: break-word">Budget</div>
-  <div style="width: 116px; height: 35px; left: 11px; top: 115px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Monthly income:<br/></div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 137px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 142px; height: 35px; left: 13px; top: 202px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Others:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 228px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 7px; height: 10px; left: 303px; top: 241px; position: absolute; border-radius: 9999px; border: 1px #D9D9D9 solid"></div>
-  <div style="width: 127px; height: 35px; left: 13px; top: 292px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Year income:</div>
-  <div style="width: 266px; height: 15px; left: 16px; top: 382px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Avg income:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 318px; position: absolute; background: white; border: 3px #499CB6 solid"></div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 409px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 327px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 237px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 147px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 418px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 496px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 325px; height: 48px; left: 8px; top: 607px; position: absolute; background: #499CB6; border-radius: 5px; border: 2px #499CB6 solid"></div>
-  <div style="width: 82px; height: 15px; left: 128px; top: 623px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Save</div>
-  <div style="width: 266px; height: 15px; left: -475px; top: 1390px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Habits</div>
-  <div style="width: 25px; height: 0px; left: 41px; top: 21px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; border: 2px black solid"></div>
+<div className="AndroidLarge5" style={{width: 360, height: 800, position: 'relative', background: 'white'}}>
+  <img className="Image1" style={{width: 600, height: 900, left: -103, top: -50, position: 'absolute'}} src="https://via.placeholder.com/600x900" />
+  <div className="Budget" style={{width: 197, height: 46, left: 82, top: 46, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 48, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Budget</div>
+  <div className="MonthlyIncome" style={{width: 116, height: 35, left: 11, top: 115, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Monthly income:<br/></div>
+  <div className="Rectangle28" style={{width: 322, height: 33, left: 11, top: 137, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Others" style={{width: 142, height: 35, left: 13, top: 202, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Others:</div>
+  <div className="Rectangle29" style={{width: 322, height: 33, left: 11, top: 228, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Ellipse75" style={{width: 7, height: 10, left: 303, top: 241, position: 'absolute', borderRadius: 9999, border: '1px #D9D9D9 solid'}} />
+  <div className="YearIncome" style={{width: 127, height: 35, left: 13, top: 292, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Year income:</div>
+  <div className="AvgIncome" style={{width: 266, height: 15, left: 16, top: 382, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Avg income:</div>
+  <div className="Rectangle30" style={{width: 322, height: 33, left: 11, top: 318, position: 'absolute', background: 'white', border: '3px #499CB6 solid'}}></div>
+  <div className="Rectangle31" style={{width: 322, height: 33, left: 11, top: 409, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div style={{width: 257, height: 15, left: 36, top: 327, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 237, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 147, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 418, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 496, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div className="Rectangle33" style={{width: 325, height: 48, left: 8, top: 607, position: 'absolute', background: '#499CB6', borderRadius: 5, border: '2px #499CB6 solid'}}></div>
+  <div className="Save" style={{width: 82, height: 15, left: 128, top: 623, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Save</div>
+  <div className="Habits" style={{width: 266, height: 15, left: -475, top: 1390, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Habits</div>
+  <div className="Arrow8" style={{width: 25, height: 0, left: 41, top: 21, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', border: '2px black solid'}}></div>
 </div>
-<div style="width: 360px; height: 800px; position: relative; background-image: url(https://via.placeholder.com/360x800)">
-  <div style="width: 197px; height: 46px; left: 81px; top: 11px; position: absolute; text-align: center; color: black; font-size: 48px; font-family: Itim; font-weight: 400; word-wrap: break-word">Start saving<br/><br/></div>
-  <div style="width: 116px; height: 35px; left: 11px; top: 115px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Goal:</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 137px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 142px; height: 35px; left: 13px; top: 202px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Daily budget</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 228px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 7px; height: 10px; left: 303px; top: 241px; position: absolute; border-radius: 9999px; border: 1px #D9D9D9 solid"></div>
-  <div style="width: 127px; height: 35px; left: 13px; top: 292px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Saved</div>
-  <div style="width: 266px; height: 15px; left: 16px; top: 382px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Lost</div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 318px; position: absolute; background: white; border: 3px #499CB6 solid"></div>
-  <div style="width: 322px; height: 33px; left: 11px; top: 409px; position: absolute; background: white; border: 2px #499CB6 solid"></div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 327px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 237px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 147px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 418px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 257px; height: 15px; left: 36px; top: 496px; position: absolute; color: rgba(0, 0, 0, 0.50); font-size: 15px; font-family: Inter; font-weight: 100; word-wrap: break-word">$:</div>
-  <div style="width: 325px; height: 48px; left: 8px; top: 607px; position: absolute; background: #499CB6; border-radius: 5px; border: 2px #499CB6 solid"></div>
-  <div style="width: 82px; height: 15px; left: 128px; top: 623px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Save</div>
-  <div style="width: 266px; height: 15px; left: -475px; top: 1390px; position: absolute; color: black; font-size: 13px; font-family: Inter; font-weight: 800; word-wrap: break-word">Habits</div>
-  <div style="width: 25px; height: 0px; left: 41px; top: 21px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; border: 2px black solid"></div>
+<div className="AndroidLarge6" style={{width: 360, height: 800, position: 'relative', backgroundImage: 'url(https://via.placeholder.com/360x800)'}}>
+  <div className="StartSaving" style={{width: 197, height: 46, left: 81, top: 11, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 48, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Start saving<br/><br/></div>
+  <div className="Goal" style={{width: 116, height: 35, left: 11, top: 115, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Goal:</div>
+  <div className="Rectangle28" style={{width: 322, height: 33, left: 11, top: 137, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="DailyBudget" style={{width: 142, height: 35, left: 13, top: 202, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Daily budget</div>
+  <div className="Rectangle29" style={{width: 322, height: 33, left: 11, top: 228, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div className="Ellipse75" style={{width: 7, height: 10, left: 303, top: 241, position: 'absolute', borderRadius: 9999, border: '1px #D9D9D9 solid'}} />
+  <div className="Saved" style={{width: 127, height: 35, left: 13, top: 292, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Saved</div>
+  <div className="Lost" style={{width: 266, height: 15, left: 16, top: 382, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Lost</div>
+  <div className="Rectangle30" style={{width: 322, height: 33, left: 11, top: 318, position: 'absolute', background: 'white', border: '3px #499CB6 solid'}}></div>
+  <div className="Rectangle31" style={{width: 322, height: 33, left: 11, top: 409, position: 'absolute', background: 'white', border: '2px #499CB6 solid'}}></div>
+  <div style={{width: 257, height: 15, left: 36, top: 327, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 237, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 147, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 418, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div style={{width: 257, height: 15, left: 36, top: 496, position: 'absolute', color: 'rgba(0, 0, 0, 0.50)', fontSize: 15, fontFamily: 'Inter', fontWeight: '100', wordWrap: 'break-word'}}>$:</div>
+  <div className="Rectangle33" style={{width: 325, height: 48, left: 8, top: 607, position: 'absolute', background: '#499CB6', borderRadius: 5, border: '2px #499CB6 solid'}}></div>
+  <div className="Save" style={{width: 82, height: 15, left: 128, top: 623, position: 'absolute', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Save</div>
+  <div className="Habits" style={{width: 266, height: 15, left: -475, top: 1390, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Inter', fontWeight: '800', wordWrap: 'break-word'}}>Habits</div>
+  <div className="Arrow8" style={{width: 25, height: 0, left: 41, top: 21, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', border: '2px black solid'}}></div>
 </div>
