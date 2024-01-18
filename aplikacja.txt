@@ -1,0 +1,20 @@
+Kroki:
+
+Nauczyć sie  programu
+Dowiedzieć sie jak połączyć baze danych 
+
+
+Stworzyć funkcje która przechowuje wpisane posiadane fundusze
+Stworzyć funkcje która przechowuje wydatki
+Stworzyć miesięczne wydatki
+Stworzyć funkcje która zapisuje dzienne wydatki
+Stworzyć funkcje informującą o przekroczeniu fundusza
+Stworzyć funkcje oszczędnośći 
+Stworzyć interfejs
+Dzienny bilans
+Miesięczny bilans
+
+dodac baze danych, połaczyć ją
+
+
+w ostatecznosci polaczyc z bankiem 
